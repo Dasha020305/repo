@@ -13,7 +13,7 @@ namespace zadanie1
             Console.WriteLine();
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Листья в поле пожелтели");
+            Console.WriteLine("Листья в поле пожелтeли");
             Console.WriteLine("И кружатся и летят;");
             Console.WriteLine("Лишь в бору поникши ели");
             Console.WriteLine("Зелень мрачную хранят.");
