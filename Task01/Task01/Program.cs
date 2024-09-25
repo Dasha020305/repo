@@ -14,7 +14,7 @@ namespace zadanie1
 
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Листья в поле пожелтeли");
-            Console.WriteLine("И кружатся и летят;");
+            Console.WriteLine("И кружатся, и летят;");
             Console.WriteLine("Лишь в бору поникши ели");
             Console.WriteLine("Зелень мрачную хранят.");
             Console.WriteLine("Под нависшею скалою");
@@ -25,6 +25,7 @@ namespace zadanie1
             Console.WriteLine("Скрыться где-нибудь спешит.");
             Console.WriteLine("Ночью месяц тускл, и поле");
             Console.WriteLine("Сквозь туман лишь серебрит.");
+     
 
             Console.ResetColor();  
 
