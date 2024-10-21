@@ -22,7 +22,7 @@ namespace Task7
 
         static bool IsStatementTrue (int n)
         {
-            return n % 5 ==0 && n % 7 != 0;
+            return n % 5 == 0 && n % 7 != 0;
         }
         static int GetNumber (string numberName)
         {
