@@ -21,7 +21,7 @@ namespace Task10
 
             if (b == 0)
             {
-                Console.WriteLine("Число не удовлетворяет условию b != 0 ");
+                Console.WriteLine("Число не удовлетворяет условию b - целое число, неравное нулю ");
                 Console.ReadKey();
                 return;
             }
