@@ -21,7 +21,7 @@ namespace Task10._4
             }
 
             int maxDigit = -1; 
-            int position = 1; 
+            int position = 0; 
             int maxPosition = -1; 
 
             int temp = n;
