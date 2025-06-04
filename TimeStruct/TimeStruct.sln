@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeStruct", "TimeStruct\TimeStruct.csproj", "{0A05434D-45FF-44E2-BCFE-52674B715AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeStruct.UnitTests", "TimeStruct.UnitTests\TimeStruct.UnitTests.csproj", "{374F5636-79C5-43B2-8AA1-8E170502C12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A05434D-45FF-44E2-BCFE-52674B715AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A05434D-45FF-44E2-BCFE-52674B715AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A05434D-45FF-44E2-BCFE-52674B715AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A05434D-45FF-44E2-BCFE-52674B715AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374F5636-79C5-43B2-8AA1-8E170502C12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374F5636-79C5-43B2-8AA1-8E170502C12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374F5636-79C5-43B2-8AA1-8E170502C12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374F5636-79C5-43B2-8AA1-8E170502C12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC7EF30-4F64-4375-AA3F-17EBC9744367}
+	EndGlobalSection
+EndGlobal
